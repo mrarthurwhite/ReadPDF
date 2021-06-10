@@ -15,6 +15,7 @@ import com.snowtide.pdf.Page;
  * 2. add the jar file to the classpath/build path
  * 3. then read the pdf file specifying the file name (here "hello.pdf")
  * 4. then specify an output file name (here hello.txt)
+ * 5. close the pipes and writers
  *
  */
 public class ReadPDF {
