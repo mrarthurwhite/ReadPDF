@@ -37,8 +37,6 @@ public class ReadPDF {
 			e.printStackTrace();
 		}
 
-	    
-
 
 	}
 
