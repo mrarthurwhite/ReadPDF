@@ -13,7 +13,8 @@ import com.snowtide.pdf.Page;
  * @author SOLON
  * 1. add pdfxstream.jar 
  * 2. add the jar file to the classpath/build path
- * 3. 
+ * 3. then read the pdf file specifying the file name (here "hello.pdf")
+ * 4. then specify an output file name (here hello.txt)
  *
  */
 public class ReadPDF {
